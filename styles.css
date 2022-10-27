@@ -17,6 +17,12 @@ body,html {
   color:white;
   padding:10px;
 }
+links {
+  psoition:absolute;
+  top:50%;
+  left:50%;
+  transform:translate(-50%,-50%);
+}
 btn {
   background:rgba(0,0,0,0.7);
   color:white;
